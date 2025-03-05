@@ -2,6 +2,6 @@
 
 Curso introductorio de Python.  
 Repositorio Original  
-        |
-        v
+        |  
+        v  
 https://github.com/Alf-caput/CursoPythonUFV2025
